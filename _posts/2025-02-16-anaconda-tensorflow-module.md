@@ -23,15 +23,11 @@ Jupyter notebook에서 Tensorflow import 상황에서 No module named 'tensorflo
 
 
 
-
-
-Python 에서 빠져나와 Ana![다운로드3](../images/2025-02-16-anaconda-tensorflow-module/다운로드3-1739883009747-7.png)conda Prompt에서 실행
-
+![다운로드3](../images/2025-02-16-anaconda-tensorflow-module/다운로드3-1739883009747-7.png)
 
 
 
-
-위의 주소로 들![다운로드4](../images/2025-02-16-anaconda-tensorflow-module/다운로드4-1739883018272-9.png)어가면 Kernel이 있는데 이 파일을 여시면 됩니다.
+![다운로드4](../images/2025-02-16-anaconda-tensorflow-module/다운로드4-1739883018272-9.png)위의 주소로 들어가면 Kernel이 있는데 이 파일을 여시면 됩니다.
 
 ![다운로드5](../images/2025-02-16-anaconda-tensorflow-module/다운로드5-1739883023795-11.png)
 
@@ -48,8 +44,6 @@ C:\Users\yuys0\.conda\envs\cnn\python.exe
 ![다운로드8](../images/2025-02-16-anaconda-tensorflow-module/다운로드8-1739883041099-17.png)
 
 저장 후 다시 돌아가서 가상환경에서 pip install ipykernel을 진행해줍니다.
-
-
 
 
 
